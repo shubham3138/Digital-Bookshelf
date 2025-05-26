@@ -1,4 +1,4 @@
-# 📚 Digi-BOOK - Your Digital Bookshelf
+# 📚 Booken - Your Digital Bookshelf
 
 ![Books Banner](https://img.shields.io/badge/Booken-Your%20Literary%20Journey%20Begins%20Here-blue?style=for-the-badge)
 
